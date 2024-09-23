@@ -30,7 +30,7 @@ Search for "What's up Docker Updates Monitor" in the HACS store. If you don't se
 After installation, setup the integration via the web UI like any other integration. When prompted, provide the following:
 
 -   **Host:** *Your What's up Docker IP Address or hostname*
--   **Port:** *the port for the Web GUI of What's up Docker*
+-   **Port:** *the port for the Web UI of What's up Docker*
 -   **Instance_Name:** *This will be the "device" all sensors get associated to*
 
 
