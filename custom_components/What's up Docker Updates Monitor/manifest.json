@@ -1,6 +1,7 @@
 {
   "domain": "WUD_GetUpdates",
   "name": "What's up Docker Updates Monitor",
+  "issue_tracker": "https://github.com/pveiga90/What-s-up-Docker-Updates-Monitor/issues",
   "version": "0.1",
   "documentation": "https://github.com/pveiga90/What-s-up-Docker-Updates-Monitor/blob/main/README.md",
   "requirements": [],
