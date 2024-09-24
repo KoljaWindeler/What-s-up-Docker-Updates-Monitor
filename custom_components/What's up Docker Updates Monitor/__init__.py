@@ -1,7 +1,7 @@
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 
-DOMAIN = "WUD_GetUpdates"
+DOMAIN = "wud_getupdates"
 
 async def async_setup(hass: HomeAssistant, config: dict):
     return True
