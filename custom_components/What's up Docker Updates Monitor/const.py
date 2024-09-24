@@ -1,1 +1,1 @@
-DOMAIN = "WUD_GetUpdates"
+DOMAIN = "wud_getupdates"
