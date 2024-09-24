@@ -6,7 +6,7 @@ from homeassistant.core import HomeAssistant
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = "wud_monitor"
+DOMAIN = "wud_getupdates"
 
 async def async_setup_entry(hass: HomeAssistant, config_entry: ConfigEntry, async_add_entities):
     """Set up the WUD sensor platform."""
