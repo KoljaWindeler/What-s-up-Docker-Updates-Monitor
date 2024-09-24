@@ -3,6 +3,7 @@
   "name": "Whats up Docker Updates Monitor",
   "issue_tracker": "https://github.com/pveiga90/What-s-up-Docker-Updates-Monitor/issues",
   "version": "0.2",
+  "iot_class": "local_polling",
   "documentation": "https://github.com/pveiga90/What-s-up-Docker-Updates-Monitor/blob/main/README.md",
   "requirements": [],
   "codeowners": ["@pveiga90"],
